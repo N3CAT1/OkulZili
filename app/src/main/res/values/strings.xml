@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Okul Zili</string>
+    <string name="title_activity_zil">Zil Ayarları</string>
+    <string name="pref_ringtone_silent">Sessiz</string>
+</resources>
