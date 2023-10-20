@@ -1,4 +1,6 @@
 # Okul Zili
+**_2018_** yılında çalıştığım kurum için 2-3 gün içinde yapmış olduğum okul zil uygulaması.
+
 Bu Android uygulaması ile okullarda zil sistemi cihazları kullanmak yerine Android işletim sistemine sahip bir telefon veya tablet ile okul zili sistemi kullanılabilir.
 
 Burada dikkat edilmesi gereken husus mobil cihaza, zil hoparlörünün bağlı olduğu amfiyi bağlamaktır.
